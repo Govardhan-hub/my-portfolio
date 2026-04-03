@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Student Form</title>
+  <style>
+    body {
+      background: #050a13;
+      color: white;
+      font-family: Arial;
+      text-align: center;
+      padding-top: 50px;
+    }
+
+    input {
+      padding: 10px;
+      margin: 5px;
+      border-radius: 5px;
+      border: none;
+    }
+
+    button {
+      padding: 10px 20px;
+      background: #00c8ff;
+      border: none;
+      font-weight: bold;
+    }
+
+    .output {
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Student Form</h1>
+
+<input type="text" id="name" placeholder="Enter Name"><br>
+<input type="number" id="age" placeholder="Enter Age"><br>
+<input type="text" id="course" placeholder="Enter Course"><br>
+
+<button onclick="showData()">Submit</button>
+
+<div class="output" id="result"></div>
+
+<script>
+function showData() {
+  let name = document.getElementById("name").value;
+  let age = document.getElementById("age").value;
+  let course = document.getElementById("course").value;
+
+  document.getElementById("result").innerHTML =
+    "Name: " + name + "<br>Age: " + age + "<br>Course: " + course;
+}
+</script>
+
+</body>
+</html>
