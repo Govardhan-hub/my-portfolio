@@ -1,42 +1,41 @@
-# 🚀 Govardhan Portfolio
+# Govardhan Portfolio
 
-Hi, I’m Govardhan 👋  
+Hi, I’m Govardhan.  
 This is my personal portfolio website where I showcase my skills, projects, and learning journey as a Computer Science student.
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-I’m currently pursuing B.Tech in Computer Science & Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.
+I am currently pursuing B.Tech in Computer Science and Engineering at Amrita Vishwa Vidyapeetham, Amritapuri.
 
 I enjoy building web applications, learning new technologies, and improving my problem-solving skills. I like turning ideas into real projects and continuously growing as a developer.
 
 ---
 
-## 🌐 Portfolio Features
+## Portfolio Features
 
-- Modern dark-themed UI  
+- Modern dark-themed user interface  
 - Fully responsive design  
-- Clean and simple layout  
-- Smooth user experience  
-- Multi-page structure  
+- Clean and structured layout  
+- Multi-page portfolio website  
 
 ---
 
-## 💼 Projects
+## Projects
 
-### 🔹 Personal Portfolio Website
+### Personal Portfolio Website
 A responsive portfolio built using HTML and CSS with a modern design.
 
-### 🔹 Simple Web Application
-A basic interactive application that demonstrates form handling using JavaScript.
+### Simple Web Application
+A basic interactive application demonstrating form handling using JavaScript.
 
-### 🔹 Stopwatch
+### Stopwatch
 A functional stopwatch with start, stop, and reset features using JavaScript.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML  
 - CSS  
@@ -45,4 +44,4 @@ A functional stopwatch with start, stop, and reset features using JavaScript.
 
 ---
 
-## 📂 Project Structure
+## Project Structure
