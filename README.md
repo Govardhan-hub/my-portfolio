@@ -45,3 +45,48 @@ A functional stopwatch with start, stop, and reset features using JavaScript.
 ---
 
 ## Project Structure
+Portfolio/
+│── index.html
+│── about.html
+│── skills.html
+│── projects.html
+│── education.html
+│── contact.html
+│── webapp.html
+│── stopwatch.html
+│── style.css
+│── profile.webp
+
+
+---
+
+## How to Run
+
+1. Clone the repository  
+2. Open the project folder  
+3. Open `index.html` in your browser  
+
+---
+
+## Contact
+
+Email: govardhanbavisetti08@gmail.com  
+GitHub: https://github.com/Govardhan-hub  
+LinkedIn: https://linkedin.com/in/govardhan-bavisetti  
+
+---
+
+## Future Improvements
+
+- Add more projects  
+- Improve design and user experience  
+- Add backend functionality  
+- Deploy with a custom domain  
+
+---
+
+## Final Note
+
+This portfolio is part of my learning journey. I will continue to update it as I learn and build more projects.
+
+Thank you for visiting.
